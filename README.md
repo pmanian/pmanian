@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pmanian
 - 👀 I’m interested in React, Node
-- 🌱 I’m currently learning Vue
 - 📫 How to reach me ? Email @ manianprasanna@gmail.com
 
 <!---
